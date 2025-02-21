@@ -1,0 +1,10 @@
+streamlit
+newspaper3k
+transformers
+torch
+nltk
+pandas
+scikit-learn
+pytest
+# Optional for explanation
+shap
