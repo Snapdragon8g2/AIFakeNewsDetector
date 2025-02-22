@@ -69,6 +69,6 @@ def main():
         st.success(f"**Predicted Label:** {label}")
         st.info(f"**Confidence:** {confidence:.2f}")
 
-
+#appmain
 if __name__ == "__main__":
     main()
